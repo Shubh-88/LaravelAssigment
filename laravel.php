@@ -1,7 +1,7 @@
 <?php
 
 
- $shubhangi ="Shubhangi";
- echo $shubhangi;
+ $shubhangis ="Shubhangi";
+ echo $shubhangis;
 
 ?>
